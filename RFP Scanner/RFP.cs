@@ -65,7 +65,7 @@ namespace RFP_Scanner
 
 
         }
-
+        //Upload click event
         private  async void btnUploadPDF_Click(object sender, EventArgs e)
         {
             lblStatus.Visible = false;
